@@ -1,2 +1,6 @@
-# SUBSCRIBERS_GALAORE_-_EXPLORING_WORLD-S_TOP_YOUTUBE_CHANNELS_NM2023TMID02435
-A public repo for a project namely "SUBSCRIBERS GALAORE : EXPLORING WORLD'S TOP YOUTUBE CHANNELS"
+# Subscribers-galore-exploring-worlds-top-youtube-channels
+Dashboard public link - https://public.tableau.com/views/DashboardSubscriberGalorefinal/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
+Story Public link -   https://public.tableau.com/views/SubscriberGalorefinal/story?:language=en-US&:display_count=n&:origin=viz_share_link
